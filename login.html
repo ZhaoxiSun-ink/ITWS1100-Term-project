@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <title>Term Project Login</title>    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <script type="text/javascript" src="resources/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="login.js"></script>
+  </head>
+  
+  <style>
+    body {
+        font-family: Arial, Helvetica, sans-serif; 
+    }
+    #bodyBlock {
+        width: 700px;
+        margin: auto;
+    }
+    #output {
+        margin: 1em 0;
+        color: black;
+        background-color: #fee;
+        padding: 1em;
+        border: 1px solid #ddd;
+    }
+    fieldset {
+        padding-top: 1em; 
+    }
+    .field {
+        width: 120px;
+        margin: 0 0.5em 0.5em 0;
+        float: left;
+        clear: left;
+        text-align: right;
+    }
+    .value {
+        margin: 0 0 0.5em 0;
+    }
+    #save {
+        float: right;
+    }
+  </style>
+ 
+  
+  <body onLoad="document.addForm.name.focus()">
+    <div id="bodyBlock">
+      <h1>Login</h1>
+      <form id="addForm" name="addForm">
+        <fieldset> 
+          <legend>Contact Information</legend>
+          <div class="formData">
+                          
+            <label class="field">User Name:</label>
+            <div class="value"><input type="text" size="60" value="" name="name" id="name"/></div>
+            
+            <label class="field"> Password:</label>
+            <div class="value"><input type="text" size="60" value="" name="password" id="password"/></div>
+            
+            <input type="submit" value="login" id="save" name="save"/>
+          </div>
+        </fieldset>
+      </form>
+    </div>
+  </body>
+
+</html>
