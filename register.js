@@ -12,11 +12,12 @@ $(document).ready(function() {
                 console.log(data);
                 var len = data.user.length;
                 for (var i = 0; i <len; i++){
-                    if(name == data.user[i].name && password == data.user[i].password){
+                    if(name == data.user[i].name){
                         alert("Already have the userName");   
                     }
                 }
-                user.push({"name":name, "password":password});
+                data.user.push({"name":name, "password":password});
+                alert("Register Sucessful.")
             }
         })
     });
