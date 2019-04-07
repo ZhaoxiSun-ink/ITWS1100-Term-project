@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <title>Upload page</title>    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>    
+  </head>
+
+  <style>
+    body {
+        font-family: Arial, Helvetica, sans-serif; 
+        background-image: url(upload_background.jpg);
+    }
+    #logo{
+        background-color: #ffffff;
+        text-align: left;
+        margin: 0 0 0 0;
+    }
+    #bodyBlock {
+        padding:10px;
+        width: 700px;
+        margin: auto;
+        background-color: #ffffff;
+        border:double;
+    }
+    #output {
+        margin: 1em 0;
+        color: black;
+        background-color: #fee;
+        padding: 1em;
+        border: 1px solid #ddd;
+    }
+    fieldset {
+        padding-top: 1em; 
+    }
+    .field {
+        width: 120px;
+        margin: 0 0.5em 0.5em 0;
+        float: left;
+        clear: left;
+        text-align: right;
+    }
+    .value {
+        margin: 0 0 0.5em 0;
+    }
+    #add {
+        float: right;
+    }
+  </style>
+
+  <html>
+    <div id="logo"><img src="logo.png" height="75" width="150"></div>
+    <li></li>
+    <li></li>
+    <div id="bodyBlock">
+            <h1>Upload What You Have!</h1>
+            <form id="addForm" name="addForm" action="#" method="post" onsubmit="return validate(this);">
+              <fieldset> 
+                <legend>Information</legend>
+                <div class="formData">
+                                
+                  <label class="field">File Name:</label>
+                  <div class="value"><input type="text" size="60" value="" name="name" id="name"/></div>
+                  
+                  <label class="field">Course:</label>
+                  <div class="value"><input type="text" size="60" value="" name="course" id="course"/></div>
+                  
+                  <label class="field">type:</label>
+                  <div class="value"><input type="text" size="60" value="" name="type" id="type"/></div>
+                  
+                  <input type="submit" value="Add" id="add" name="add"/>
+                </div>
+              </fieldset>
+              <button type="button" onclick="clear_content()">clear</button><br/>
+            </form>
+          </div>
+        </body>
+  </html>
+
+  <script>
+      function clear_content(){
+        var element = document.getElementById("name");
+        element.value="";
+        var a = document.getElementById("course");
+        a.value="";
+        var b = document.getElementById("type");
+        b.value="";
+      }
+  </script>
