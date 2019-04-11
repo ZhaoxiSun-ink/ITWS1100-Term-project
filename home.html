@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <title>Term Project Main Page</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  </head>
+
+  <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background-image: url(main_background.jpg);
+      }
+      #main_block{
+        margin:75px 0 0;
+      }
+      #nav_bar {
+        width:100%;
+        background:black;
+        overflow:auto;
+      }
+      ul{
+        padding:0;
+        margin:0 0 0 150px;
+        list-style:none;
+      }
+      li{
+        float:left;
+      }
+      .logo img{
+        position:absolute;
+        margin-top:1px;
+        margin-left:5px;
+      }
+      #nav_bar a{
+        width:100px;
+        display:block;
+        padding: 20px 15px;
+        text-decoration: none;
+        font-family: Arial;
+        color: #f2f2f2;
+        text-align: center;
+      }
+      #nav_bar a:hover{
+        background:#0198E1;
+        transition: .5s;
+      }
+      #main {
+        padding: 100px;
+      }
+      #part1{
+        font-size: 1.5em;
+        text-align: center;
+        padding: 20px;
+        background-color:#ADADAD;
+        border: double;
+      }
+      #part2{
+        font-size: 1.5em;
+        text-align: center;
+        padding: 20px;
+        background-color: #ADADAD;
+        border: double;
+      }
+      nav a:hover{
+          color:red;
+      }
+  </style>
+
+  <body>
+    <div class= "logo"> <a href ="#"> <img src ="logo.png"  width="200" height="75">  </a>
+    </div>
+    <nav id="nav_bar">
+      <ul>
+        <li> <a href = "home.html"> Home </a> </li>
+        <li> <a href = "access.html"> Access </a> </li>
+        <li> <a href = "upload.html"> Upload </a> </li>
+        <li> <a href = "contact.html"> Our Team </a> </li>
+        <li> <a href = ""> Logout </a> </li>
+      </ul>
+    </nav>
+    <div id="main">
+      <div id="part1"><nav><a href="#">Start your search.</a></nav></div>
+        <div id="main_block">
+          <div id="part2"><nav><a href="#">Don't find what you what? Add it now!</a></nav></div>
+        </div>
+    </div>
+  </body>

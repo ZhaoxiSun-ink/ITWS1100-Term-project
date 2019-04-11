@@ -1,0 +1,74 @@
+{
+    "resource":[
+        {
+            "name":"ITWS1100-S19-W1C1-Apps-CourseIntro",
+            "course":"ITWS1100",
+            "tag":"Lecture Note",
+            "year":"2019",
+            "place":"resource/ITWS1100-S19-W1C1-Apps-CourseIntro.pdf"
+        },
+        {
+            "name":"ITWS1100-S19-W2C1P1-Tech-Pres01-Bits&Bytes",
+            "course":"ITWS1100",
+            "tag":"Lecture Note",
+            "year":"2019",
+            "place":"resource/ITWS1100-S19-W2C1P1-Tech-Pres01-Bits&Bytes.pdf"
+        },
+        {
+            "name":"ITWS1100-S19-W2C1P2-Tech-Pres02-NetworkProtocols",
+            "course":"ITWS1100",
+            "tag":"Lecture Note",
+            "year":"2019",
+            "place":"resource/ITWS1100-S19-W2C1P2-Tech-Pres02-NetworkProtocols.pdf"
+        },
+        {
+            "name":"ITWS1100-S19-W3C2-TechPres04&05_old5&6_-HTML&CSS",
+            "course":"ITWS1100",
+            "tag":"Lecture Note",
+            "year":"2019",
+            "place":"resource/ITWS1100-S19-W3C2-TechPres04&05_old5&6_-HTML&CSS.pdf"
+        },
+        {
+            "name":"ITWS1100-S19-W4C1P1-TechPres06_old 7_-HTML&CSSReview&Lab2",
+            "course":"ITWS1100",
+            "tag":"Lecture Note",
+            "year":"2019",
+            "place":"resource/ITWS1100-S19-W4C1P1-TechPres06_old 7_-HTML&CSSReview&Lab2.pdf"
+        },
+        {
+            "name":"2012 Quiz2",
+            "course":"ITWS1100",
+            "tag":"back exame",
+            "year":"2012",
+            "place":"resource/2012_Quiz2.pdf"
+        },
+        {
+            "name":"2013 Quiz1",
+            "course":"ITWS1100",
+            "tag":"back exame",
+            "year":"2013",
+            "place":"resource/2011_Quiz1.pdf"
+        },
+        {
+            "name":"2018 Quiz1",
+            "course":"ITWS1100",
+            "tag":"back exame",
+            "year":"2018",
+            "place":"resource/2018_Quiz1.pdf"
+        },
+        {
+            "name":"2018 Quiz2",
+            "course":"ITWS1100",
+            "tag":"back exame",
+            "year":"2018",
+            "place":"resource/2018_Quiz2.pdf"
+        },
+        {
+            "name":"2019 Quiz1",
+            "course":"ITWS1100",
+            "tag":"back exame",
+            "year":"2019",
+            "place":"resource/2019_Quiz1.pdf"
+        }
+    ]
+}
