@@ -1,0 +1,158 @@
+"resource":[
+  {
+    "name":"Binary and Computers",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=Xpk67YzOn5w"
+  },
+  {
+    "name":"Video TCP-3way handshake explained",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=xMtP5ZB3wSk"
+  },
+  {
+    "name":"Article TCP-3way handshake explained",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.geeksforgeeks.org/computer-network-tcp-3-way-handshake-process/"
+  },
+  {
+    "name":"OSI Model",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=HEEnLZV2wGI"
+  },
+  {
+    "name":"w3schools HTML",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.w3schools.com/html/"
+  },
+  {
+    "name":"w3schools CSS",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.w3schools.com/css/"
+  },
+  {
+    "name":"CSS Video",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=0afZj1G0BIE"
+  },
+  {
+    "name":"HTML Video",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=bWPMSSsVdPk"
+  },
+  {
+    "name":"Information Architecture",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.usability.gov/what-and-why/information-architecture.html"
+  },
+  {
+    "name":"Website Architecture",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://moz.com/learn/seo/website-architecture-internal-links-video"
+  },
+  {
+    "name":"w3schools XML/RSS",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.w3schools.com/xml/xml_rss.asp"
+  },
+  {
+    "name":"XML Video",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=n-y-YHVZSwk"
+  },
+  {
+    "name":"RSS Video",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=6HNUqDL-pI8"
+  },
+  {
+    "name":"GitHub Tutorial",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=0fKg7e37bQE"
+  },
+  {
+    "name":"w3schools Javascript",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.w3schools.com/js/"
+  },
+  {
+    "name":"Intro Javascript",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=Ukg_U3CnJWI"
+  },
+  {
+    "name":"Advanced Javascript",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=W6NZfCO5SIk"
+  },
+  {
+    "name":"w3schools JQuery",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.w3schools.com/jquery/"
+  },
+  {
+    "name":"Codecademy JQuery",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.codecademy.com/learn/learn-jquery"
+  },
+  {
+    "name":"XAMMP Article",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.wpblogx.com/what-is-xampp/"
+  },
+  {
+    "name":"XAMMP Video",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=S95w1uIeMBU"
+  },
+  {
+    "name":"w3schools JSON",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.w3schools.com/js/js_json_intro.asp"
+  },
+  {
+    "name":"w3schools AJAX",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.w3schools.com/xml/ajax_intro.asp"
+  },
+  {
+    "name":"w3schools PHP",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.w3schools.com/php/"
+  },
+  {
+    "name":"JSON, AJAX, PHP Video",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=rJesac0_Ftw "
+  },
+  {
+    "name":"PHP MySQL",
+    "course":"ITWS1100",
+    "tag":"Study Resource",
+    "place":"https://www.youtube.com/watch?v=mpQts3ezPVg"
+  }
+]
