@@ -1,0 +1,226 @@
+{
+    "resource":[
+        {
+            "title":"Quiz1",
+            "id":"2018 Quiz1",
+            "course":"ITWS1100",
+            "tag":"back exam",
+            "year":"2018",
+            "place":"resource/2018_Quiz1.pdf"
+        },
+        {
+            "title":"Quiz1",
+            "id":"2019 Quiz1",
+            "course":"ITWS1100",
+            "tag":"back exam",
+            "year":"2019",
+            "place":"resource/2019_Quiz1.pdf"
+        },
+        {
+            "title":"Quiz1",
+            "id":"2013 Quiz1",
+            "course":"ITWS1100",
+            "tag":"back exam",
+            "year":"2013",
+            "place":"resource/2011_Quiz1.pdf"
+        },
+        {
+            "title":"Quiz2",
+            "id":"2012 Quiz2",
+            "course":"ITWS1100",
+            "tag":"back exam",
+            "year":"2012",
+            "place":"resource/2012_Quiz2.pdf"
+        },
+        {
+            "title":"Quiz2",
+            "id":"2018 Quiz2",
+            "course":"ITWS1100",
+            "tag":"back exam",
+            "year":"2018",
+            "place":"resource/2018_Quiz2.pdf"
+        },
+        {
+            "title":"Bits and Bytes",
+            "id":"Binary and Computers",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=Xpk67YzOn5w"
+        },
+        {
+            "title":"Network Protocols",
+            "id":"Video TCP-3way handshake explained",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=xMtP5ZB3wSk"
+        },
+        {
+            "title":"Network Protocols",
+            "id":"Article TCP-3way handshake explained",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.geeksforgeeks.org/computer-network-tcp-3-way-handshake-process/"
+        },
+        {
+            "title":"Network Protocols",
+            "id":"OSI Model",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=HEEnLZV2wGI"
+        },
+        {
+            "title":"HTML & CSS",
+            "id":"w3schools HTML",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.w3schools.com/html/"
+        },
+        {
+            "title":"HTML & CSS",
+            "id":"w3schools CSS",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.w3schools.com/css/"
+        },
+        {
+            "title":"HTML & CSS",
+            "id":"CSS Video",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=0afZj1G0BIE"
+        },
+        {
+            "title":"HTML & CSS",
+            "id":"HTML Video",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=bWPMSSsVdPk"
+        },
+        {
+            "title":"Information Architecture",
+            "id":"Information Architecture",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.usability.gov/what-and-why/information-architecture.html"
+        },
+        {
+            "title":"Website Architecture",
+            "id":"Website Architecture",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://moz.com/learn/seo/website-architecture-internal-links-video"
+        },
+        {
+            "title":"XML & RSS",
+            "id":"w3schools XML/RSS",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.w3schools.com/xml/xml_rss.asp"
+        },
+        {
+            "title":"XML & RSS",
+            "id":"XML Video",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=n-y-YHVZSwk"
+        },
+        {
+            "title":"XML & RSS",
+            "id":"RSS Video",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=6HNUqDL-pI8"
+        },
+        {
+            "title":"GitHub",
+            "id":"GitHub Tutorial",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=0fKg7e37bQE"
+        },
+        {
+            "title":"JavaScript",
+            "id":"w3schools JavaScript",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.w3schools.com/js/"
+        },
+        {
+            "title":"JavaScript",
+            "id":"Intro Javascript",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=Ukg_U3CnJWI"
+        },
+        {
+            "title":"JavaScript",
+            "id":"Advanced JavaScript",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=W6NZfCO5SIk"
+        },
+        {
+            "title":"JQuery",
+            "id":"w3schools JQuery",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.w3schools.com/jquery/"
+        },
+        {
+            "title":"JQuery",
+            "id":"Codecademy JQuery",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.codecademy.com/learn/learn-jquery"
+        },
+        {
+            "title":"XAMPP",
+            "id":"XAMPP Article",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.wpblogx.com/what-is-xampp/"
+        },
+        {
+            "title":"XAMPP",
+            "id":"XAMPP Video",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=S95w1uIeMBU"
+          },
+          {
+            "title":"JSON AJAX PHP",
+            "id":"w3schools JSON",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.w3schools.com/js/js_json_intro.asp"
+          },
+          {
+            "title":"JSON AJAX PHP",
+            "id":"w3schools AJAX",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.w3schools.com/xml/ajax_intro.asp"
+          },
+          {
+            "title":"JSON AJAX PHP",
+            "id":"w3schools PHP",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.w3schools.com/php/"
+          },
+          {
+            "title":"JSON AJAX PHP",
+            "id":"JSON, AJAX, PHP Video",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=rJesac0_Ftw "
+          },
+          {
+            "title":"PHP & MySQL",
+            "id":"PHP MySQL",
+            "course":"ITWS1100",
+            "tag":"Study Resource",
+            "place":"https://www.youtube.com/watch?v=mpQts3ezPVg"
+          }
+    ]
+}
